@@ -1,5 +1,7 @@
 # イケてる404ページコンテスト
 ## 概要
+[情処ポータルサイト](http://tnctjosho.info)の404ページ[（例）](http://tnctjosho.info/users/10000)がダサいので、イケてる感じにしようというコンテスト。
+
 ![事の発端](https://dl.dropboxusercontent.com/s/q21cvphheuy56qf/iketeru_404.png)
 
 事の発端自体がすでにネタなので、ネタに走るのもOKです。
